@@ -1,0 +1,12 @@
+/build/
+/.settings/
+# OS Files #
+.classpath
+.project
+.DS_Store
+ 
+*.class
+ 
+# Package Files #
+*.jar
+*.war
